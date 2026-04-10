@@ -1,5 +1,7 @@
 # Carely - AI Companion for Elderly Care
 
+## Demo: https://drive.google.com/file/d/1-ebNvSXlDUUT5fqF-BVRrshmiDgsoBLO/view
+
 ## Overview
 
 Carely is a comprehensive AI-powered elderly care companion application that provides proactive health monitoring, medication management, and emotional support. The system uses OpenAI's GPT-5 for natural language interactions, sentiment analysis, and emergency detection. It features a dual-portal architecture serving both patients and caregivers, with automated scheduling for medication reminders and wellness check-ins. The application stores conversation history and personal context to provide personalized, empathetic interactions while monitoring for concerning health patterns and alerting caregivers when necessary.
